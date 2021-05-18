@@ -1,0 +1,47 @@
+.block__title {
+    font-family: Styrene A Web;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 120%;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-top: 71px;
+}
+
+.block__container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 27px;
+}
+
+.block__content {
+    margin-top: 36px;
+    max-width: 353px;
+}
+
+.block__item {
+    font-family: Styrene A Web;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 120%;
+    margin-bottom: 10px;
+    color: red;
+}
+
+.block__item_span {
+    color: #000;
+}
+
+.block__paragraph {
+    font-family: Styrene A Web;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 120%;
+    border-top: 3px solid red;
+    padding-top: 20px;
+    margin-block-start: 0;
+    margin-block-end: 0;
+}

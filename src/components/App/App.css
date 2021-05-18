@@ -1,0 +1,15 @@
+.app {
+  max-width: 1920px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.app__title {
+  font-family: Styrene A Web;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 120%;
+  text-align: center;
+  margin: 71px auto 18px;
+}
